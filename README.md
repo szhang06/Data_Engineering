@@ -2,6 +2,13 @@
 
 This repository is about data engineering skills on GCP.
 
+### Create a data lake: Loading Taxi Data into Google Cloud SQL 2.5
+https://www.cloudskillsboost.google/course_sessions/2440590/labs/344091
+
+
+
+
+
 ### Loading data into BigQuery:
 https://www.cloudskillsboost.google/course_sessions/2440590/labs/344100
   1. create a dataset under a project -> create a table
