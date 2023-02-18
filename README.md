@@ -43,5 +43,12 @@ https://www.cloudskillsboost.google/course_sessions/2440590/labs/344100
           FROM
             pickup_datetime)=1;
        ```
+       
+### Building a data warehouse
+    query truct_array table.sql
+    
+    course documents
+
+
 ### ETL Processing on Google Cloud Using Dataflow and BigQuery
 https://www.cloudskillsboost.google/focuses/3460?parent=catalog
