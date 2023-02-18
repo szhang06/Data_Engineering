@@ -45,6 +45,8 @@ https://www.cloudskillsboost.google/course_sessions/2440590/labs/344100
        ```
        
 ### Building a data warehouse
+https://www.cloudskillsboost.google/course_sessions/2440590/labs/344091
+
     query truct_array table.sql
     
     course documents
